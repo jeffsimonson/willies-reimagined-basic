@@ -1,6 +1,6 @@
 # willies-reimagined-basic
 
-# Willie's Reimagined = Basic Javascript Version
+# Willie's Reimagined - Basic Javascript Version
 
 Willie’s Wine Bar & Cuisine was a delightful bar and restaurant located in the Loring Park neighborhood of downtown Minneapolis, MN. My wife at the time was the owner and it was her passion project. It operated from 2006-2007. Unfortunately, the location did not generate as much traffic as hoped for and was forced to close even though those who found it raved about it.
 
